@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# allow gitignore
+!.gitignore
+
+# allow source folder
+!src/
+!src/main/
+!src/main/java/
+!src/main/java/com/
+!src/main/java/com/example/
+!src/main/java/com/example/tasks/
+!src/main/java/com/example/tasks/feb27tasks/
+!src/main/java/com/example/tasks/feb27tasks/**
